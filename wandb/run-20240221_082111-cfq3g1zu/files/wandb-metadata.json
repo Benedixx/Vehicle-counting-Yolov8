@@ -1,0 +1,67 @@
+{
+    "os": "Linux-5.15.133+-x86_64-with-glibc2.31",
+    "python": "3.10.13",
+    "heartbeatAt": "2024-02-21T08:21:12.779398",
+    "startedAt": "2024-02-21T08:21:11.580789",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "kaggle.ipynb",
+    "codePathLocal": null,
+    "root": "/kaggle/working/ultralytics",
+    "git": {
+        "remote": "https://github.com/ultralytics/ultralytics.git",
+        "commit": "604b9d07946b093a79ff899b1ead463b9ef7be4a"
+    },
+    "email": null,
+    "host": "bf7e01c72fc1",
+    "username": "root",
+    "executable": "/opt/conda/bin/python3.10",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2000.192,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2000.192,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2000.192,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2000.192,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2000.192,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 8062.387607574463,
+            "used": 5432.260173797607
+        }
+    },
+    "gpu": "Tesla P100-PCIE-16GB",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Tesla P100-PCIE-16GB",
+            "memory_total": 17179869184
+        }
+    ],
+    "memory": {
+        "total": 31.357559204101562
+    }
+}
